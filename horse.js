@@ -1,5 +1,5 @@
 function horse(){
 
 }
-horse.prototype.run = function(){
+horse.prototype.jump = function(){
 }
