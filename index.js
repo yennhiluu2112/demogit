@@ -6,4 +6,3 @@ cat.sayHi();
 
 var mouse = new Mouse('mouse');
 cat.eat(mouse);
-console.log(cat);
