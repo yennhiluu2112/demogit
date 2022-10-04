@@ -5,6 +5,6 @@ function mouse(name){
 mouse.prototype.die = function(){
     this.dead = true;
 }
-horse.prototype.run = function(){
+horse.prototype.run11 = function(){
 }
 module.exports = mouse;
